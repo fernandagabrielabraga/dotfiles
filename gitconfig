@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fernanda.gabriela.braga@gmail.com
+	name = fernanda braga
